@@ -1,0 +1,5 @@
+vercel - https://book-landing-page-xi.vercel.app/
+
+netlify - https://tranquil-mousse-628b77.netlify.app/
+
+git - https://ruhi117.github.io/book-landing-page/
